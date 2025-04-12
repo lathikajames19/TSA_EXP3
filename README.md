@@ -11,33 +11,12 @@ type to fit the data.
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
-import matplotlib.pyplot as plt
 
-import numpy as np
-
-data = [3, 16, 156, 47, 246, 176, 233, 140, 130,
-101, 166, 201, 200, 116, 118, 247,
-209, 52, 153, 232, 128, 27, 192, 168, 208,
-187, 228, 86, 30, 151, 18, 254,
-76, 112, 67, 244, 179, 150, 89, 49, 83, 147, 90,
-33, 6, 158, 80, 35, 186, 127]
-
-lags = range(35)
-
-
-#Pre-allocate autocorrelation table
-
-#Mean
-
-#Variance
-
-#Normalized data
-
-#Go through lag components one-by-one
-
-#display the graph
+![WhatsApp Image 2025-03-29 at 15 55 24_d2ce6bfd](https://github.com/user-attachments/assets/191836fa-7aae-4b23-a6b5-35898518a3a4)
+![WhatsApp Image 2025-03-29 at 15 55 24_333ca050](https://github.com/user-attachments/assets/84962963-498b-4139-97fa-b04f832b318e)
 
 ### OUTPUT:
+![WhatsApp Image 2025-03-29 at 15 55 24_aed4af03](https://github.com/user-attachments/assets/6824fd8b-3d94-4a55-a196-e1aba64670bd)
 
 ### RESULT:
         Thus we have successfully implemented the auto correlation function in python.
